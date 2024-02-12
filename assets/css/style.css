@@ -872,8 +872,13 @@ main {
 
 
 /*-----------------------------------*\
-  #PORTFOLIO
+  #PROJECTS
 \*-----------------------------------*/
+
+.project-placeholder {
+  text-align: center;
+  margin-bottom: 20px;
+}
 
 .filter-list { display: none; }
 
